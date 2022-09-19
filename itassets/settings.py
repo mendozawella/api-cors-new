@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7=n=x@dpfpspk9x4!@j$gmhz!-0r@&dsl6*pe(o!0^1vwrx@k0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ '127.0.0.1', 'apicorswmendoza.azurewebsites.net' , 'githubapi-wmendoza.azurewebsites.net']
+ALLOWED_HOSTS = [ '127.0.0.1', 'apicorswmendoza.azurewebsites.net' , 'githubapi-wmendoza.azurewebsites.net', 'apigithubnew-final.azurewebsites.net']
 
 
 # Application definition
